@@ -1,7 +1,7 @@
 # Guacamole
-*avocado
-*lemon
-*salt
+* avocado
+* lime
+* salt
 
 ## Ingredients
 
